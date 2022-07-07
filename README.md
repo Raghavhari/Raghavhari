@@ -39,7 +39,7 @@
 
 ## Social
 
-[<img src='https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1657182765~hmac=fadfb0ad491f2589c083d1fa70761513' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/raghav-hari//) [<img src='https://cdn-icons.flaticon.com/png/512/3178/premium/3178285.png?token=exp=1657182819~hmac=9db46c9695d4fc108713c7d6a779d845' alt='website' height='40'>](https://raghavhari.github.io/)  
+[<img src='https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1657182765~hmac=fadfb0ad491f2589c083d1fa70761513' alt='linkedin' height='40'>](https://www.linkedin.com/in/raghav-hari//) [<img src='https://cdn-icons.flaticon.com/png/512/3178/premium/3178285.png?token=exp=1657182819~hmac=9db46c9695d4fc108713c7d6a779d845' alt='website' height='40'>](https://raghavhari.github.io/)  
 
 ## Stats
 
