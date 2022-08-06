@@ -5,14 +5,14 @@
 
 
 ![Profile views](https://gpvc.arturio.dev/Raghavhari)  
-
+<img align="right" alt="Coding" width="300" src="ML-GIF.gif">
 - 🔭 I’m currently working on Machine Learning  
 - 👨‍💻 All of my projects are available at [Raghavhari](https://github.com/Raghavhari)
 - 💬 Ask me about AI 
 - 📫 How to reach me: harishraghavmr@gmail.com 
 - 😄 Pronouns: Popz 
 - ⚡ Fun fact: Hustle! 
-<img align="right" alt="Coding" width="300" src="ML-GIF.gif">
+
 
 
 
