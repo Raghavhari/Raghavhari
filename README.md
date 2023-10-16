@@ -5,6 +5,7 @@
 
 
 <img align="right" alt="Coding" width="300" src="ML-GIF.gif">
+
 - 🔭 I’m currently working on Data Analytics
 - 👨‍💻 All of my projects are available at [Raghavhari](https://github.com/Raghavhari?tab=repositories)
 - 💬 Ask me about Artificial Intelligence
