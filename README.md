@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available at [Raghavhari](https://github.com/Raghavhari?tab=repositories)
 - 💬 Ask me about Artificial Intelligence
 - 📫 How to reach me: harishraghavmr@gmail.com 
-- 😄 Pronouns: Popz 
+- 😄 Pronouns: PoPz 
 - ⚡ Fun fact: Quantum Computing is Awsome! 
 
 
