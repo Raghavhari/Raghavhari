@@ -6,12 +6,12 @@
 
 <img align="right" alt="Coding" width="300" src="ML-GIF.gif">
 
-- 🔭 I’m currently working on Data Analytics
-- 👨‍💻 All of my projects are available at [Raghavhari](https://github.com/Raghavhari?tab=repositories)
-- 💬 Ask me about Artificial Intelligence
-- 📫 How to reach me: harishraghavmr@gmail.com 
-- 😄 Pronouns: PoPz 
-- ⚡ Fun fact: Quantum Computing is Awsome! 
+- 🔭 I’m currently working on Full Stack Development (yes, both bugs and features!)
+- 👨‍💻 Check out my projects at Raghavhari — where code lives and occasionally behaves
+- 💬 Ask me about Artificial Intelligence — because talking to machines is totally normal now
+- 📫 Reach me at: harishraghavmr@gmail.com
+- 😄 Pronouns: PoPz (because why not?)
+- ⚡ Fun fact: Quantum Computing is Awesome! It’s like regular computing... but from another dimension
 
 
 
