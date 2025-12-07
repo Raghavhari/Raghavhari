@@ -13,10 +13,10 @@
 - 😄 Pronouns: PoPz (because why not?)
 - ⚡ Fun fact: Quantum Computing is Awesome! It’s like regular computing... but from another dimension
 
-
-
-
-
 ## Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raghavhari&show_icons=true)  
+
+## Contributions
+
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Raghavhari&hide=B,B%2B&hide_contributor_rank=false&limit=5)
