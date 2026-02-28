@@ -13,4 +13,6 @@
 - 😄 Pronouns: PoPz (because why not?)
 - ⚡ Fun fact: Quantum Computing is Awesome! It’s like regular computing... but from another dimension
 
+## Repo Activity
+
 ![Repo Activity](https://repobeats.axiom.co/api/embed/ed30e715b2d6d39e7f25f69ae3cf75660d40acee.svg "Repobeats analytics image")
