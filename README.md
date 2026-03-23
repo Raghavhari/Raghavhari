@@ -16,3 +16,4 @@
 ## Repo Activity
 
 ![Repo Activity](https://repobeats.axiom.co/api/embed/ed30e715b2d6d39e7f25f69ae3cf75660d40acee.svg "Repobeats analytics image")
+[![Harish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raghavhari)](https://github.com/Raghavhari/)
